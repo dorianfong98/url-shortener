@@ -41,7 +41,7 @@ As this project is purely MVP-scoped, I have not deployed it online. However, fe
 
 To get started using the application, you can either simply head over to
 
-Alternatively, if you would like to run this locally, you may download the .zip file, open the terminal, redirect to  the 'url_shortener' directory, and run `python manage.py runserver` in your terminal. 
+Alternatively, if you would like to run this locally, you may download the .zip file, open the terminal, navigate to  the 'url_shortener' directory, and run `python manage.py runserver` in your terminal. 
 
 Note: As this file runs on PORT 8000, make sure that it is not already in use. 
 To check and kill processes running on the port:
